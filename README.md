@@ -1,3 +1,6 @@
+
+<img src="https://i.imgur.com/h5FY1Jf.gif?raw=true" alt="suffer" width="150px" style="border-radius: 10px;" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bujirenso&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bujirenso&theme=transparent&hide_border=false)<br/>
