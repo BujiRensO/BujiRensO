@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A spammer</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
