@@ -9,3 +9,9 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BujiRensO&layout=compact&theme=radical&hide_border=true" alt="My Most Used Languages" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  </a>
+</p>
