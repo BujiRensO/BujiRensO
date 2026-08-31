@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media1.tenor.com/m/nsIzrgTUb6sAAAAd/monday-left-me-broken-cat.gif" width="200" alt="Monday left me broken cat" />
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=BujiRensO&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
