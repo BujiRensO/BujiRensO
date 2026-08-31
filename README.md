@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://i.pinimg.com/736x/02/eb/a7/02eba7fd195c162687984dadc9879ebf.jpg" width="200" alt="Profile Image" />
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=BujiRensO&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
