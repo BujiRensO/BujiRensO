@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/nsIzrgTUb6sAAAAd/monday-left-me-broken-cat.gif" width="200" alt="Monday left me broken cat" />
-  <img src="https://media1.tenor.com/m/Z4EWWBBvQr8AAAAd/dog-handshake-ai.gif" width="200" alt="Dog handshake AI" />
+  <img src="YOUR_CAT_GIF_GITHUB_LINK_HERE" width="200" alt="Monday left me broken cat" />
+  
+  <img src="YOUR_DOG_GIF_GITHUB_LINK_HERE" width="200" alt="Dog handshake AI" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/02/eb/a7/02eba7fd195c162687984dadc9879ebf.jpg" width="200" alt="Profile Image" />
+  <img src="YOUR_PINTEREST_IMAGE_GITHUB_LINK_HERE" width="200" alt="Profile Image" />
 </p>
 
 <p align="center">
