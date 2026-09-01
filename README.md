@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/nsIzrgTUb6sAAAAd/monday-left-me-broken-cat.gif" width="200" alt="Monday left me broken cat" />
+  <img src="https://media1.tenor.com/m/Z4EWWBBvQr8AAAAd/dog-handshake-ai.gif" width="200" alt="Dog handshake AI" />
 </p>
 
 <p align="center">
